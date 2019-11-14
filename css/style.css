@@ -50,6 +50,11 @@ a:active {
 	color: var(--active-link-color);
 }
 
+a img {
+	width: 30px;
+	height: 30px;
+}
+
 button, .button, .button:visited {
 	border: none;
 	display: var(--display);
