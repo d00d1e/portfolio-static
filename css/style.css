@@ -62,7 +62,7 @@ button, .button, .button:visited {
 	background-color: var(--primary-color);
 	color: var(--white);
   	text-decoration: var(--text-decoration);
-  	padding: 7x;
+  	padding: 7px;
   	border-radius: 3px;
   	border-bottom:  2px solid rgba(0, 0, 0, 0.3);
   	transition: 0.2s opacity;
