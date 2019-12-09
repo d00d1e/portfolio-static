@@ -79,6 +79,9 @@ button:hover, button:focus, .button:hover, .button:focus {
 	height: 200px;
 	display: var(--display);
 }
+#moose-img{
+	width: 300px;
+}
 
 /*flexbox for header bar*/
 .page-header {
