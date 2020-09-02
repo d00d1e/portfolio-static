@@ -1,2 +1,5 @@
-# portfolio-website
-Portfolio Website
+# Portfolio Website
+
+HTML | CSS | Boostrap
+
+<img src="assets/img/screenshot.png">
